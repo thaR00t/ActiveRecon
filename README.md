@@ -11,6 +11,8 @@ Installation:
 
 ```
 pip install -r requirements.txt
+sudo chmod +x install.sh
+sudo ./install.sh
 ```
 What the script really does:
 1) Ip lookup
