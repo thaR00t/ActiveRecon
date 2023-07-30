@@ -1,0 +1,7 @@
+python-masscan
+python-whois
+python3-nmap
+rich
+pyfiglet
+ipy
+ipapi
